@@ -1,18 +1,18 @@
-# 마크다운 문법
+- Goal & Vision
+    - 2p game(Coop Mode)
+      - fixed y axis(tmp)
+      - Keybinding for 2 Player Objects 
+        → create 2P Game Screen , Enemy Object balanced hp, Boss mop 
 
-# 제목 1
-## 제목 2
-### 제목 3
-#### 제목 4
-##### 제목 5
+- Role
+  - team leader
+    - WonBin Jo<br>    
+  - member   
+    - YoungTaek Kim   
+    - Jinwoo Song   
+    - Youngjun Ko   
+    - Sungjun Jo   
+    - Jaeo Lee   
 
-* 줄바꿈
-* 끝에 <br> 붙이거나 스페이스바 두번 |
 
-* 글자체  
-**bold**<br>
-_italic_  
-~~strikethrough~~
-
-* 링크 넣기  
-[링크 이름](www.naver.com)
+|    | [Joyroom](https://github.com/chowonbhin/Invaders) | [Jin Woo Song](https://github.com/puppleberry/puppleberry), [Young Taek Kim](https://github.com/zT4ek/zT4ek), [Won Bhin Cho](https://github.com/chowonbhin/Invaders), [Young Jun Ko](https://github.com/youngjun1227/youngjun1227), [Jae O Lee](https://github.com/LeeJaeO/LeeJaeO), [Sung Jun Jo](https://github.com/Jo-SungJun/Jo-SungJun) | [Instruct students](requirements/Joyroom.md) | 
